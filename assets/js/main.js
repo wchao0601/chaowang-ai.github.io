@@ -76,20 +76,10 @@ const publications = [
 
 const news = [
   {
-    date: "2026.08",
-    en: "Personal academic homepage project created for GitHub Pages.",
-    zh: "个人学术主页项目已创建，可直接部署到 GitHub Pages。"
+    date: "2026.06.18",
+    en: "Congratulations! M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Object Detection has been accepted by ECCV 2026 (Poster).",
+    zh: "M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Object Detection 已被ECCV 2026接受（海报）。"
   },
-  {
-    date: "2026",
-    en: "Localized background-aware generative distillation work appeared in IEEE TCSVT.",
-    zh: "Localized background-aware generative distillation 工作发表于 IEEE TCSVT。"
-  },
-  {
-    date: "2025",
-    en: "M4-SAR dataset and benchmark released as an arXiv preprint.",
-    zh: "M4-SAR 数据集与基准以 arXiv 预印本形式发布。"
-  }
 ];
 
 const translations = {
@@ -106,8 +96,11 @@ const translations = {
     "hero.eyebrow": "Computer Vision · Remote Sensing · Multimodal Learning",
     "about.title": "About Me",
     "about.body1": "I am Chao Wang (王超) at Nanjing University of Science and Technology. My research focuses on remote sensing object detection, knowledge distillation, SAR image understanding, and optical-SAR multimodal learning.",
-    "about.body2": "I am interested in building reliable perception systems for complex Earth observation scenes, including robust detectors, unified benchmarks, and efficient adaptation strategies for foundation models.",
-    "news.title": "New",
+    "about.body2": "SAR Object Detection: Detection methods and benchmarks for synthetic aperture radar imagery under complex scenes.",
+    "about.body3": "Optical-SAR Fusion: Cross-modal localization and multimodal representation learning for Earth observation.",
+    "about.body4": "Knowledge Distillation: Compact, accurate detectors through localization-aware and generative distillation.",
+    "about.body5": "Foundation Model Adaptation: Efficient adaptation of large visual models for remote sensing detection and segmentation.",
+    "news.title": "News",
     "pubs.title": "Publications",
     "pubs.note": "Selected first-author and equal-contribution papers. * denotes equal contribution.",
     "pubs.all": "View all",
