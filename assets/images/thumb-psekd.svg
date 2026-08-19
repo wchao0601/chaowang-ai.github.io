@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#f7f8fb"/>
+  <g transform="translate(320 230) rotate(-24)">
+    <rect x="-150" y="-76" width="300" height="152" fill="#2f6f9f" opacity=".9"/>
+    <rect x="-64" y="-24" width="128" height="48" fill="none" stroke="#fff" stroke-width="10"/>
+  </g>
+  <path d="M116 114c82 52 137 75 204 75s124-23 204-75M116 350c82-52 137-75 204-75s124 23 204 75" fill="none" stroke="#b88a31" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="426" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#17202a">PSEKD</text>
+</svg>
