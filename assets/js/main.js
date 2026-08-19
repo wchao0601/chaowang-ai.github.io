@@ -18,7 +18,7 @@ const publications = [
     year: "2025",
     citations: "37",
     badge: "arXiv",
-    image: "assets/images/thumb-m4sar.svg",
+    image: "assets/images/m4-sar.png",
     links: [
       { label: "Scholar", href: scholarUrl },
       { label: "arXiv", href: "https://arxiv.org/abs/2505.10931" }
