@@ -152,7 +152,7 @@ const translations = {
     "service.title": "学术服务",
     "service.journal": "期刊审稿人",
     "service.conference": "会议审稿人",
-    "footer.rights": "版权所有。",
+    "footer.rights": "版权所有",
     "footer.source": "为 GitHub Pages 构建。可在 assets/js/main.js 中更新内容。"
   }
 };
