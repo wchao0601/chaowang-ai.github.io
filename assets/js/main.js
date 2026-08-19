@@ -2,26 +2,27 @@ const scholarUrl = "https://scholar.google.com/citations?user=zDgjX3IAAAAJ&hl=en
 
 const publications = [
   {
+    title: "M4-SAR: A multi-resolution, multi-polarization, multi-scene, multi-source dataset and benchmark for optical-SAR object detection",
+    authors: "<strong>Chao Wang</strong>, Wei Lu, Xingdong Li, Jian Yang, Lei Luo",
+    venue: "arXiv preprint arXiv:2505.10931",
+    year: "2026",
+    badge: "ECCV 2026",
+    image: "assets/images/M4-SAR.png",
+    links: [
+      { label: "Paper", href: "https://arxiv.org/abs/2505.10931" },
+      { label: "Code", href: "https://github.com/wchao0601/M4-SAR" }
+    ]
+  },
+  {
     title: "Localized background-aware generative distillation for enhanced remote sensing object detection",
     authors: "<strong>Chao Wang</strong>, Yuxuan Sun, Jian Yang, Lei Luo",
     venue: "IEEE Transactions on Circuits and Systems for Video Technology",
     year: "2026",
-    citations: "3",
     badge: "IEEE TCSVT",
     image: "assets/images/LBGD.png",
-    links: [{ label: "Scholar", href: scholarUrl }]
-  },
-  {
-    title: "M4-SAR: A multi-resolution, multi-polarization, multi-scene, multi-source dataset and benchmark for optical-SAR object detection",
-    authors: "<strong>Chao Wang</strong>, Wei Lu, Xingdong Li, Jian Yang, Lei Luo",
-    venue: "arXiv preprint arXiv:2505.10931",
-    year: "2025",
-    citations: "37",
-    badge: "arXiv",
-    image: "assets/images/M4-SAR.png",
     links: [
-      { label: "Scholar", href: scholarUrl },
-      { label: "arXiv", href: "https://arxiv.org/abs/2505.10931" }
+      { label: "Paper", href: "https://ieeexplore.ieee.org/abstract/document/11373188" },
+      { label: "Code", href: "https://github.com/wchao0601/LBGD" }
     ]
   },
   {
@@ -29,40 +30,47 @@ const publications = [
     authors: "<strong>Chao Wang</strong>, Wenxuan Fang, Xingdong Li, Jian Yang, Lei Luo",
     venue: "IEEE Transactions on Geoscience and Remote Sensing",
     year: "2025",
-    citations: "10",
     badge: "IEEE TGRS",
     image: "assets/images/MSOD.png",
-    links: [{ label: "Scholar", href: scholarUrl }]
+    links: [
+      { label: "Paper", href: "https://ieeexplore.ieee.org/document/11150448" },
+      { label: "Code", href: "https://github.com/wchao0601/MSOD-DGIoU" }
+    ]
   },
   {
     title: "Cross-modal gaussian localization distillation for optical information guided SAR object detection",
     authors: "<strong>Chao Wang</strong>, Lei Luo, Wenxuan Fang, Jian Yang",
     venue: "ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing",
     year: "2025",
-    citations: "8",
-    badge: "ICASSP",
+    badge: "ICASSP 2025",
     image: "assets/images/GaLD.png",
-    links: [{ label: "Scholar", href: scholarUrl }]
+    links: [
+      { label: "Paper", href: "https://ieeexplore.ieee.org/document/10889285" },
+      { label: "Code", href: "https://github.com/wchao0601/GaLD" }
+    ]
   },
   {
     title: "PSEKD: Phase-shift encoded knowledge distillation for oriented object detection in remote sensing images",
     authors: "<strong>Chao Wang</strong>, Yuxin Yue, Bin Luo, Yuxuan Chen, Jing Xue",
     venue: "ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing",
     year: "2024",
-    citations: "7",
-    badge: "ICASSP",
+    badge: "ICASSP 2024",
     image: "assets/images/PseKD.png",
-    links: [{ label: "Scholar", href: scholarUrl }]
+    links: [
+      { label: "Paper", href: "https://ieeexplore.ieee.org/document/10447000" }
+    ]
   },
   {
     title: "Category-oriented localization distillation for SAR object detection and a unified benchmark",
     authors: "<strong>Chao Wang</strong>, Rui Ruan, Zhe Zhao, Chun Li, Jin Tang",
     venue: "IEEE Transactions on Geoscience and Remote Sensing 61, 1-14",
     year: "2023",
-    citations: "80",
     badge: "IEEE TGRS",
     image: "assets/images/CoLD.png",
-    links: [{ label: "Scholar", href: scholarUrl }]
+    links: [
+      { label: "Paper", href: "https://ieeexplore.ieee.org/document/10168956" },
+      { label: "Code", href: "https://github.com/mmic-lcl/Datasets-and-benchmark-code" }
+    ]
   }
 ];
 
