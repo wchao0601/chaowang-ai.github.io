@@ -2,8 +2,8 @@ const scholarUrl = "https://scholar.google.com/citations?user=zDgjX3IAAAAJ&hl=en
 
 const publications = [
   {
-    title: "M4-SAR: A multi-resolution, multi-polarization, multi-scene, multi-source dataset and benchmark for optical-SAR object detection",
-    authors: "<strong>Chao Wang</strong>, Wei Lu, Xingdong Li, Jian Yang, Lei Luo",
+    title: "M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for optical-SAR Object Detection",
+    authors: "<strong>Chao Wang</strong>, Wei Lu, Xiang Li, Jian Yang, Lei Luo",
     venue: "European Conference on Computer Vision",
     year: "2026",
     badge: "ECCV 2026",
@@ -14,8 +14,8 @@ const publications = [
     ]
   },
   {
-    title: "Localized background-aware generative distillation for enhanced remote sensing object detection",
-    authors: "<strong>Chao Wang</strong>, Yuxuan Sun, Jian Yang, Lei Luo",
+    title: "Localized Background-Aware Generative Distillation for Enhanced Remote Sensing Object Detection",
+    authors: "<strong>Chao Wang</strong>, Yanguang Sun, Jian Yang, Lei Luo",
     venue: "IEEE Transactions on Circuits and Systems for Video Technology",
     year: "2026",
     badge: "IEEE TCSVT",
@@ -26,8 +26,8 @@ const publications = [
     ]
   },
   {
-    title: "MSOD: A large-scale multi-scene dataset and a novel diagonal-geometry loss for SAR object detection",
-    authors: "<strong>Chao Wang</strong>, Wenxuan Fang, Xingdong Li, Jian Yang, Lei Luo",
+    title: "MSOD: A Large-Scale Multiscene Dataset and a Novel Diagonal-Geometry Loss for SAR Object Detection",
+    authors: "<strong>Chao Wang</strong>, Wenxuan Fang, Xiang Li, Jian Yang, Lei Luo",
     venue: "IEEE Transactions on Geoscience and Remote Sensing",
     year: "2025",
     badge: "IEEE TGRS",
@@ -38,7 +38,7 @@ const publications = [
     ]
   },
   {
-    title: "Cross-modal gaussian localization distillation for optical information guided SAR object detection",
+    title: "Cross-modal Gaussian Localization Distillation for Optical Information guided SAR Object Detection",
     authors: "<strong>Chao Wang</strong>, Lei Luo, Wenxuan Fang, Jian Yang",
     venue: "ICASSP 2025 - IEEE International Conference on Acoustics, Speech and Signal Processing",
     year: "2025",
@@ -50,8 +50,8 @@ const publications = [
     ]
   },
   {
-    title: "PSEKD: Phase-shift encoded knowledge distillation for oriented object detection in remote sensing images",
-    authors: "<strong>Chao Wang</strong>, Yuxin Yue, Bin Luo, Yuxuan Chen, Jing Xue",
+    title: "PseKD: Phase-Shift Encoded Knowledge Distillation for Oriented Object Detection in Remote Sensing Images",
+    authors: "<strong>Chao Wang</strong>, Yubiao Yue, Bingchun Luo, Yujie Chen, Jun Xue",
     venue: "ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing",
     year: "2024",
     badge: "ICASSP 2024",
@@ -61,8 +61,8 @@ const publications = [
     ]
   },
   {
-    title: "Category-oriented localization distillation for SAR object detection and a unified benchmark",
-    authors: "<strong>Chao Wang</strong>, Rui Ruan, Zhe Zhao, Chun Li, Jin Tang",
+    title: "Category-Oriented Localization Distillation for SAR Object Detection and a Unified Benchmark",
+    authors: "<strong>Chao Wang</strong>, Rui Ruan, Zhicheng Zhao, Chenglong Li, Jin Tang",
     venue: "IEEE Transactions on Geoscience and Remote Sensing 61, 1-14",
     year: "2023",
     badge: "IEEE TGRS",
