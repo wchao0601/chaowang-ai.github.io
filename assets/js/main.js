@@ -4,7 +4,7 @@ const publications = [
   {
     title: "M4-SAR: A multi-resolution, multi-polarization, multi-scene, multi-source dataset and benchmark for optical-SAR object detection",
     authors: "<strong>Chao Wang</strong>, Wei Lu, Xingdong Li, Jian Yang, Lei Luo",
-    venue: "arXiv preprint arXiv:2505.10931",
+    venue: "European Conference on Computer Vision",
     year: "2026",
     badge: "ECCV 2026",
     image: "assets/images/M4-SAR.png",
