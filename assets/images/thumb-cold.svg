@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
-  <rect width="640" height="480" fill="#eef3f8"/>
-  <rect x="70" y="86" width="210" height="250" rx="8" fill="#2f6f9f" opacity=".9"/>
-  <rect x="360" y="118" width="210" height="250" rx="8" fill="#b85a4f" opacity=".86"/>
-  <path d="M280 190c34-28 50-28 80 0M280 260c34 28 50 28 80 0" fill="none" stroke="#17202a" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="174" cy="178" r="28" fill="#fff"/>
-  <circle cx="466" cy="214" r="28" fill="#fff"/>
-  <text x="320" y="416" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#17202a">Localization Distillation</text>
-</svg>
