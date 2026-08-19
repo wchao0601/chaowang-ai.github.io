@@ -31,7 +31,7 @@ const publications = [
     year: "2025",
     citations: "10",
     badge: "IEEE TGRS",
-    image: "assets/images/thumb-msod.svg",
+    image: "assets/images/m4-sar.pdf",
     links: [{ label: "Scholar", href: scholarUrl }]
   },
   {
