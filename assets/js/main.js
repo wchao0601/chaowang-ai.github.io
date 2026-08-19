@@ -8,7 +8,7 @@ const publications = [
     year: "2026",
     citations: "3",
     badge: "IEEE TCSVT",
-    image: "assets/images/thumb-generative-distillation.svg",
+    image: "assets/images/LBGD.png",
     links: [{ label: "Scholar", href: scholarUrl }]
   },
   {
@@ -18,7 +18,7 @@ const publications = [
     year: "2025",
     citations: "37",
     badge: "arXiv",
-    image: "assets/images/m4-sar.png",
+    image: "assets/images/M4-SAR.png",
     links: [
       { label: "Scholar", href: scholarUrl },
       { label: "arXiv", href: "https://arxiv.org/abs/2505.10931" }
@@ -31,7 +31,7 @@ const publications = [
     year: "2025",
     citations: "10",
     badge: "IEEE TGRS",
-    image: "assets/images/m4-sar.pdf",
+    image: "assets/images/MSOD.png",
     links: [{ label: "Scholar", href: scholarUrl }]
   },
   {
@@ -41,7 +41,7 @@ const publications = [
     year: "2025",
     citations: "8",
     badge: "ICASSP",
-    image: "assets/images/thumb-cross-modal.svg",
+    image: "assets/images/GaLD.png",
     links: [{ label: "Scholar", href: scholarUrl }]
   },
   {
@@ -51,7 +51,7 @@ const publications = [
     year: "2024",
     citations: "7",
     badge: "ICASSP",
-    image: "assets/images/thumb-psekd.svg",
+    image: "assets/images/PseKD.png",
     links: [{ label: "Scholar", href: scholarUrl }]
   },
   {
@@ -61,7 +61,7 @@ const publications = [
     year: "2023",
     citations: "80",
     badge: "IEEE TGRS",
-    image: "assets/images/thumb-cold.svg",
+    image: "assets/images/CoLD.png",
     links: [{ label: "Scholar", href: scholarUrl }]
   }
 ];
