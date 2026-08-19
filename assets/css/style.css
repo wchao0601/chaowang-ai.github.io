@@ -259,9 +259,29 @@ p {
   line-height: 1.7;
 }
 
-.intro-section .about-highlight {
-  color: #c45f5f;
+.intro-section .about-name {
+  color: var(--heading);
   font-weight: 800;
+}
+
+.intro-section .about-topic {
+  font-weight: 800;
+}
+
+.intro-section .topic-sar {
+  color: #3869bd;
+}
+
+.intro-section .topic-fusion {
+  color: #268a74;
+}
+
+.intro-section .topic-distill {
+  color: #c45f5f;
+}
+
+.intro-section .topic-foundation {
+  color: #b1842d;
 }
 
 .section-head {
