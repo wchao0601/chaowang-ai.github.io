@@ -92,7 +92,6 @@ const translations = {
     "profile.role": "Researcher in Computer Vision & Remote Sensing",
     "profile.tagline": "Multimodal remote sensing, SAR object detection, and knowledge distillation for robust Earth observation intelligence.",
     "links.email": "Email",
-    "links.cv": "CV",
     "hero.eyebrow": "Computer Vision · Remote Sensing · Multimodal Learning",
     "about.title": "About Me",
     "about.body1.before": "I am",
