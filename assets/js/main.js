@@ -197,7 +197,6 @@ function renderPublications() {
         <div class="publication-meta">
           <span class="badge">${paper.badge}</span>
           <span>${paper.year}</span>
-          <span>${paper.citations || "0"} citations</span>
         </div>
         <h3>${paper.title}</h3>
         <p class="authors">${paper.authors}</p>
