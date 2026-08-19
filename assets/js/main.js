@@ -107,7 +107,7 @@ const translations = {
     "about.title": "About Me",
     "about.body1": "I am Chao Wang (王超) at Nanjing University of Science and Technology. My research focuses on remote sensing object detection, knowledge distillation, SAR image understanding, and optical-SAR multimodal learning.",
     "about.body2": "I am interested in building reliable perception systems for complex Earth observation scenes, including robust detectors, unified benchmarks, and efficient adaptation strategies for foundation models.",
-    "news.title": "News",
+    "news.title": "New",
     "pubs.title": "Publications",
     "pubs.note": "Selected first-author and equal-contribution papers. * denotes equal contribution.",
     "pubs.all": "View all",
