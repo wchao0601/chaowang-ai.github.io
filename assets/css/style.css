@@ -259,6 +259,11 @@ p {
   line-height: 1.7;
 }
 
+.intro-section .about-highlight {
+  color: #c45f5f;
+  font-weight: 800;
+}
+
 .section-head {
   margin-bottom: 18px;
 }
