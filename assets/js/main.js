@@ -100,7 +100,7 @@ const translations = {
     "about.body2.label": "SAR Object Detection:",
     "about.body2.text": "Detection methods and benchmarks for SAR imagery under complex scenes.",
     "about.body3.label": "Optical-SAR Fusion Detection:",
-    "about.body3.text": "Cross-modal localization and multimodal representation learning for Earth observation.",
+    "about.body3.text": "Cross-modal localization and multimodal representation learning.",
     "about.body4.label": "Knowledge Distillation:",
     "about.body4.text": "Compact, accurate detectors through localization-aware and generative distillation.",
     "about.body5.label": "Foundation Model Adaptation:",
