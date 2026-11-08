@@ -76,6 +76,11 @@ const publications = [
 
 const news = [
   {
+    date: "2026.11.08",
+    en: "MoDA: Unlocking Frozen Vision Foundation Models for Multimodal Fusion Object Detection in Remote Sensing has been accepted by ISPRS Journal of Photogrammetry and Remote Sensing 2026.",
+    zh: "MoDA: Unlocking Frozen Vision Foundation Models for Multimodal Fusion Object Detection in Remote Sensing 已被ISPRS Journal of Photogrammetry and Remote Sensing 2026接受。"
+  },
+  {
     date: "2026.06.18",
     en: "M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Object Detection has been accepted by ECCV 2026 (Poster).",
     zh: "M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for Optical-SAR Object Detection 已被ECCV 2026接受（海报）。"
