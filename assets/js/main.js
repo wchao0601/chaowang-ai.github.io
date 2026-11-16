@@ -2,6 +2,18 @@ const scholarUrl = "https://scholar.google.com/citations?user=zDgjX3IAAAAJ&hl=en
 
 const publications = [
   {
+    title: "MoDA: Unlocking frozen vision foundation models for multimodal fusion object detection in remote sensing",
+    authors: "<strong>Chao Wang</strong>, Yanguang Sun, Zhenbo Yu, Jian Yang, Lei Luo",
+    venue: "ISPRS Journal of Photogrammetry and Remote Sensing",
+    year: "2026",
+    badge: "ISPRS JPRS 2026",
+    image: "assets/images/MoDA.png",
+    links: [
+      { label: "Paper", href: "https://www.sciencedirect.com/science/article/pii/S0924271626005629" },
+      { label: "Code", href: "https://github.com/wchao0601/MoDA" }
+    ]
+  },
+  {
     title: "M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for optical-SAR Object Detection",
     authors: "<strong>Chao Wang</strong>, Wei Lu, Xiang Li, Jian Yang, Lei Luo",
     venue: "European Conference on Computer Vision",
