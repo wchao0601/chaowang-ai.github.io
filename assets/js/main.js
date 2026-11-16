@@ -7,7 +7,7 @@ const publications = [
     venue: "ISPRS Journal of Photogrammetry and Remote Sensing",
     year: "2026",
     badge: "ISPRS JPRS 2026",
-    image: "assets/images/MoDA.png",
+    image: "assets/images/MoDA1.png",
     links: [
       { label: "Paper", href: "https://www.sciencedirect.com/science/article/pii/S0924271626005629" },
       { label: "Code", href: "https://github.com/wchao0601/MoDA" }
